@@ -1,0 +1,517 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4288 >>
+stream
+BT
+/F1 10 Tf
+50 790 Td
+/F1 10 Tf
+(Non-Disclosure Agreement @page { size: A4; margin: 24mm 18mm 22mm; @bottom-center {) Tj
+0 -14 Td /F1 10 Tf
+(content: "Multi-Agent Enterprise Contract Generator | Page " counter\(page\) " of ") Tj
+0 -14 Td /F1 10 Tf
+(counter\(pages\); color: #6b7280; font-size: 9px; } } body { color: #1f2937; font-family:) Tj
+0 -14 Td /F1 10 Tf
+("Segoe UI", Arial, sans-serif; font-size: 11.5px; line-height: 1.55; margin: 0; } .cover) Tj
+0 -14 Td /F1 10 Tf
+({ border-bottom: 3px solid #2563eb; margin-bottom: 22px; padding: 8px 0 18px; } .eyebrow) Tj
+0 -14 Td /F1 10 Tf
+({ color: #2563eb; font-size: 10px; font-weight: 700; letter-spacing: 1.6px;) Tj
+0 -14 Td /F1 10 Tf
+(text-transform: uppercase; } h1 { color: #111827; font-size: 30px; letter-spacing: 0;) Tj
+0 -14 Td /F1 10 Tf
+(margin: 10px 0 8px; } .summary { background: #f8fafc; border: 1px solid #dbe3ef;) Tj
+0 -14 Td /F1 10 Tf
+(border-radius: 6px; color: #475569; padding: 12px 14px; } .contract-section { border:) Tj
+0 -14 Td /F1 10 Tf
+(1px solid #d7dee9; border-left: 4px solid #2563eb; border-radius: 6px; margin: 14px 0;) Tj
+0 -14 Td /F1 10 Tf
+(padding: 12px 15px; page-break-inside: avoid; } h2 { color: #0f172a; font-size: 15px;) Tj
+0 -14 Td /F1 10 Tf
+(margin: 0 0 7px; } p { margin: 0 0 8px; } .signature-grid { display: grid;) Tj
+0 -14 Td /F1 10 Tf
+(grid-template-columns: 1fr 1fr; gap: 24px; margin-top: 28px; } .signature-box {) Tj
+0 -14 Td /F1 10 Tf
+(border-top: 1px solid #111827; padding-top: 8px; } .meta { color: #64748b; font-size:) Tj
+0 -14 Td /F1 10 Tf
+(10px; margin-top: 18px; }) Tj
+0 -14 Td /F1 10 Tf
+(Enterprise Confidential Document) Tj
+0 -26 Td /F1 22 Tf
+(Non-Disclosure Agreement) Tj
+0 -10 Td /F1 10 Tf
+() Tj
+0 -14 Td /F1 10 Tf
+(Source request: Generate an NDA contract between Acme Corp and John Doe for a 12-month) Tj
+0 -14 Td /F1 10 Tf
+(AI consulting engagement.) Tj
+0 -8 Td /F1 10 Tf
+() Tj
+0 -18 Td /F1 14 Tf
+(Agreement Overview) Tj
+0 -14 Td /F1 10 Tf
+(As a contract compliance reviewer, I have thoroughly reviewed your Non-Disclosure) Tj
+0 -14 Td /F1 10 Tf
+(Agreement draft. The document is remarkably comprehensive, professional, and) Tj
+0 -14 Td /F1 10 Tf
+(well-structured, particularly with its detailed definitions relevant to AI technologies.) Tj
+0 -14 Td /F1 10 Tf
+(The prompt indicated "Missing sections detected: Introduction." However, your draft) Tj
+0 -14 Td /F1 10 Tf
+(effectively uses a standard legal preamble \(the "WHEREAS" clauses\) to serve as the) Tj
+0 -14 Td /F1 10 Tf
+(introduction, clearly setting out the parties, purpose, and intent. This is a perfectly) Tj
+0 -14 Td /F1 10 Tf
+(acceptable and common format for legal agreements. Therefore, I have not added a) Tj
+0 -14 Td /F1 10 Tf
+(separate, numbered "Introduction" section, as the existing structure is complete and) Tj
+0 -14 Td /F1 10 Tf
+(professional.) Tj
+0 -14 Td /F1 10 Tf
+(My corrections focus on enhancing consistency, formatting, and ensuring all placeholders) Tj
+0 -14 Td /F1 10 Tf
+(are clearly marked for completion.) Tj
+0 -14 Td /F1 10 Tf
+(Here is the corrected and finalized NDA:) Tj
+0 -14 Td /F1 10 Tf
+(---) Tj
+0 -14 Td /F1 10 Tf
+(NON-DISCLOSURE AGREEMENT) Tj
+0 -14 Td /F1 10 Tf
+(This Non-Disclosure Agreement \(this "Agreement"\), effective as of **[Insert Date of) Tj
+0 -14 Td /F1 10 Tf
+(Agreement]** \(the "Effective Date"\), is made and entered into by and between:) Tj
+0 -14 Td /F1 10 Tf
+(Acme Corp.**, a [Insert State of Incorporation] corporation, with its principal place of) Tj
+0 -14 Td /F1 10 Tf
+(business at [Insert Address] \(hereinafter referred to as the "Disclosing Party"\);) Tj
+0 -14 Td /F1 10 Tf
+(AND) Tj
+0 -14 Td /F1 10 Tf
+(John Doe**, an individual, residing at [Insert Address] \(hereinafter referred to as the) Tj
+0 -14 Td /F1 10 Tf
+("Receiving Party"\).) Tj
+0 -14 Td /F1 10 Tf
+(WHEREAS**, the Disclosing Party possesses certain confidential, proprietary, and trade) Tj
+0 -14 Td /F1 10 Tf
+(secret information;) Tj
+0 -14 Td /F1 10 Tf
+(WHEREAS**, the Parties desire to explore or engage in a potential or ongoing AI) Tj
+0 -14 Td /F1 10 Tf
+(Consulting Engagement \(the "Purpose"\);) Tj
+0 -14 Td /F1 10 Tf
+(WHEREAS**, in connection with the Purpose, the Disclosing Party may disclose certain) Tj
+0 -28 Td /F1 8 Tf
+(Multi-Agent Enterprise Contract Generator | Page 1 of 5) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 4651 >>
+stream
+BT
+/F1 10 Tf
+50 790 Td
+/F1 10 Tf
+(Confidential Information \(as defined below\) to the Receiving Party; and) Tj
+0 -14 Td /F1 10 Tf
+(WHEREAS**, the Parties desire to establish the terms and conditions under which such) Tj
+0 -14 Td /F1 10 Tf
+(Confidential Information will be disclosed and protected.) Tj
+0 -14 Td /F1 10 Tf
+(NOW, THEREFORE**, in consideration of the mutual covenants and agreements contained) Tj
+0 -14 Td /F1 10 Tf
+(herein, and for other good and valuable consideration, the receipt and sufficiency of) Tj
+0 -14 Td /F1 10 Tf
+(which are hereby acknowledged, the Parties agree as follows:) Tj
+0 -14 Td /F1 10 Tf
+(ARTICLE 1: DEFINITION OF CONFIDENTIAL INFORMATION) Tj
+0 -14 Td /F1 10 Tf
+(1.1. "Confidential Information" means any and all non-public information, whether oral,) Tj
+0 -14 Td /F1 10 Tf
+(written, electronic, visual, or in any other form, disclosed by the Disclosing Party to) Tj
+0 -14 Td /F1 10 Tf
+(the Receiving Party, directly or indirectly, in connection with the Purpose.) Tj
+0 -14 Td /F1 10 Tf
+(Confidential Information includes, but is not limited to:) Tj
+0 -14 Td /F1 10 Tf
+(a. **Business Information:** Business plans, strategies, financial data, projections,) Tj
+0 -14 Td /F1 10 Tf
+(customer lists, marketing plans, pricing information, supplier information, and) Tj
+0 -14 Td /F1 10 Tf
+(operational methods.) Tj
+0 -14 Td /F1 10 Tf
+(b. **Technical Information:** Proprietary software, algorithms, models, datasets, source) Tj
+0 -14 Td /F1 10 Tf
+(code, object code, APIs, technical specifications, designs, architectures,) Tj
+0 -14 Td /F1 10 Tf
+(documentation, and methodologies related to AI systems, machine learning, deep learning,) Tj
+0 -14 Td /F1 10 Tf
+(natural language processing, computer vision, and other artificial intelligence) Tj
+0 -14 Td /F1 10 Tf
+(technologies.) Tj
+0 -14 Td /F1 10 Tf
+(c. **Research and Development:** Research findings, development plans, product roadmaps,) Tj
+0 -14 Td /F1 10 Tf
+(inventions, discoveries, improvements, trade secrets, know-how, and intellectual) Tj
+0 -14 Td /F1 10 Tf
+(property.) Tj
+0 -14 Td /F1 10 Tf
+(d. **AI Project Specifics:** Information related to Acme Corp.'s specific AI projects,) Tj
+0 -14 Td /F1 10 Tf
+(initiatives, client-specific solutions, data processing techniques, and performance) Tj
+0 -14 Td /F1 10 Tf
+(metrics.) Tj
+0 -14 Td /F1 10 Tf
+(e. **Marked or Understood Information:** Any information that is marked or designated as) Tj
+0 -14 Td /F1 10 Tf
+("Confidential," "Proprietary," or with a similar legend, or that, by its nature or the) Tj
+0 -14 Td /F1 10 Tf
+(circumstances of its disclosure, would reasonably be understood by the Receiving Party) Tj
+0 -14 Td /F1 10 Tf
+(to be confidential.) Tj
+0 -14 Td /F1 10 Tf
+(1.2. Confidential Information shall not be deemed to be disclosed merely because it is) Tj
+0 -14 Td /F1 10 Tf
+(contained in a larger body of information that is not confidential.) Tj
+0 -14 Td /F1 10 Tf
+(ARTICLE 2: OBLIGATIONS OF THE RECEIVING PARTY) Tj
+0 -14 Td /F1 10 Tf
+(2.1. **Non-Disclosure.** The Receiving Party shall hold all Confidential Information in) Tj
+0 -14 Td /F1 10 Tf
+(strict confidence and shall not, without the prior written consent of the Disclosing) Tj
+0 -14 Td /F1 10 Tf
+(Party, disclose, publish, or disseminate any Confidential Information to any third) Tj
+0 -14 Td /F1 10 Tf
+(party.) Tj
+0 -14 Td /F1 10 Tf
+(2.2. **Limited Use.** The Receiving Party shall use the Confidential Information solely) Tj
+0 -14 Td /F1 10 Tf
+(for the Purpose and for no other purpose whatsoever. The Receiving Party shall not use) Tj
+0 -14 Td /F1 10 Tf
+(the Confidential Information for its own benefit or for the benefit of any third party.) Tj
+0 -14 Td /F1 10 Tf
+(2.3. **Protection.** The Receiving Party shall protect the Confidential Information with) Tj
+0 -14 Td /F1 10 Tf
+(at least the same degree of care as it uses to protect its own confidential or) Tj
+0 -14 Td /F1 10 Tf
+(proprietary information, but in no event less than a reasonable degree of care. The) Tj
+0 -14 Td /F1 10 Tf
+(Receiving Party shall implement and maintain appropriate physical, technical, and) Tj
+0 -14 Td /F1 10 Tf
+(administrative safeguards to prevent unauthorized access, use, or disclosure of) Tj
+0 -14 Td /F1 10 Tf
+(Confidential Information.) Tj
+0 -14 Td /F1 10 Tf
+(2.4. **No Copying or Reverse Engineering.** The Receiving Party shall not copy,) Tj
+0 -14 Td /F1 10 Tf
+(reproduce, reverse engineer, decompile, disassemble, or otherwise attempt to derive the) Tj
+0 -14 Td /F1 10 Tf
+(source code or underlying structure of any Confidential Information, or create any) Tj
+0 -28 Td /F1 8 Tf
+(Multi-Agent Enterprise Contract Generator | Page 2 of 5) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 4636 >>
+stream
+BT
+/F1 10 Tf
+50 790 Td
+/F1 10 Tf
+(derivative works based on the Confidential Information, without the prior written) Tj
+0 -14 Td /F1 10 Tf
+(consent of the Disclosing Party.) Tj
+0 -14 Td /F1 10 Tf
+(2.5. **Permitted Disclosures.** The Receiving Party may disclose Confidential) Tj
+0 -14 Td /F1 10 Tf
+(Information only to those of its employees, agents, or subcontractors who have a) Tj
+0 -14 Td /F1 10 Tf
+(legitimate "need to know" such information for the Purpose, provided that such) Tj
+0 -14 Td /F1 10 Tf
+(individuals are bound by written confidentiality obligations no less restrictive than) Tj
+0 -14 Td /F1 10 Tf
+(those contained herein. The Receiving Party shall be responsible for any breach of this) Tj
+0 -14 Td /F1 10 Tf
+(Agreement by its employees, agents, or subcontractors.) Tj
+0 -14 Td /F1 10 Tf
+(ARTICLE 3: EXCLUSIONS FROM CONFIDENTIAL INFORMATION) Tj
+0 -14 Td /F1 10 Tf
+(3.1. The obligations of confidentiality under this Agreement shall not apply to any) Tj
+0 -14 Td /F1 10 Tf
+(information that the Receiving Party can demonstrate:) Tj
+0 -14 Td /F1 10 Tf
+(a. Is or becomes publicly available through no fault or breach of this Agreement by the) Tj
+0 -14 Td /F1 10 Tf
+(Receiving Party;) Tj
+0 -14 Td /F1 10 Tf
+(b. Was rightfully known to the Receiving Party, without restriction on disclosure, prior) Tj
+0 -14 Td /F1 10 Tf
+(to its disclosure by the Disclosing Party;) Tj
+0 -14 Td /F1 10 Tf
+(c. Is rightfully obtained by the Receiving Party from a third party who has the right to) Tj
+0 -14 Td /F1 10 Tf
+(make such disclosure without restriction;) Tj
+0 -14 Td /F1 10 Tf
+(d. Is independently developed by the Receiving Party without use of or reference to the) Tj
+0 -14 Td /F1 10 Tf
+(Disclosing Party's Confidential Information; or) Tj
+0 -14 Td /F1 10 Tf
+(e. Is required to be disclosed by law, regulation, or a valid order of a court or other) Tj
+0 -14 Td /F1 10 Tf
+(governmental authority, provided that the Receiving Party \(i\) provides prompt written) Tj
+0 -14 Td /F1 10 Tf
+(notice to the Disclosing Party of such requirement, \(ii\) cooperates with the Disclosing) Tj
+0 -14 Td /F1 10 Tf
+(Party in seeking a protective order or other appropriate remedy, and \(iii\) discloses) Tj
+0 -14 Td /F1 10 Tf
+(only that portion of the Confidential Information that is legally required to be) Tj
+0 -14 Td /F1 10 Tf
+(disclosed.) Tj
+0 -14 Td /F1 10 Tf
+(ARTICLE 4: TERM AND SURVIVAL) Tj
+0 -14 Td /F1 10 Tf
+(4.1. **Term of Agreement.** This Agreement shall commence on the Effective Date and) Tj
+0 -14 Td /F1 10 Tf
+(shall remain in full force and effect for a period of twelve \(12\) months, unless) Tj
+0 -14 Td /F1 10 Tf
+(terminated earlier in accordance with its terms.) Tj
+0 -14 Td /F1 10 Tf
+(4.2. **Survival of Obligations.** Notwithstanding the termination or expiration of this) Tj
+0 -14 Td /F1 10 Tf
+(Agreement, the obligations of the Receiving Party with respect to Confidential) Tj
+0 -14 Td /F1 10 Tf
+(Information shall survive for a period of three \(3\) years from the date of disclosure of) Tj
+0 -14 Td /F1 10 Tf
+(such Confidential Information.) Tj
+0 -14 Td /F1 10 Tf
+(ARTICLE 5: RETURN OR DESTRUCTION OF CONFIDENTIAL INFORMATION) Tj
+0 -14 Td /F1 10 Tf
+(5.1. Upon the termination or expiration of the AI Consulting Engagement, or upon the) Tj
+0 -14 Td /F1 10 Tf
+(Disclosing Party's written request at any time, the Receiving Party shall promptly:) Tj
+0 -14 Td /F1 10 Tf
+(a. Return to the Disclosing Party all Confidential Information \(including all copies,) Tj
+0 -14 Td /F1 10 Tf
+(reproductions, and summaries thereof\) in its possession or control; or) Tj
+0 -14 Td /F1 10 Tf
+(b. Destroy all Confidential Information \(including all copies, reproductions, and) Tj
+0 -14 Td /F1 10 Tf
+(summaries thereof\) in its possession or control and provide written certification of) Tj
+0 -14 Td /F1 10 Tf
+(such destruction to the Disclosing Party within ten \(10\) business days of the request.) Tj
+0 -14 Td /F1 10 Tf
+(5.2. Notwithstanding the foregoing, the Receiving Party may retain one \(1\) copy of the) Tj
+0 -14 Td /F1 10 Tf
+(Confidential Information for archival purposes, subject to the continuing) Tj
+0 -14 Td /F1 10 Tf
+(confidentiality obligations hereunder.) Tj
+0 -14 Td /F1 10 Tf
+(ARTICLE 6: NO LICENSE OR WARRANTY) Tj
+0 -14 Td /F1 10 Tf
+(6.1. **No License.** Nothing in this Agreement shall be construed as granting or) Tj
+0 -14 Td /F1 10 Tf
+(conferring any rights, licenses, or interests, express or implied, under any patents,) Tj
+0 -14 Td /F1 10 Tf
+(copyrights, trademarks, trade secrets, or other intellectual property rights of the) Tj
+0 -28 Td /F1 8 Tf
+(Multi-Agent Enterprise Contract Generator | Page 3 of 5) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4660 >>
+stream
+BT
+/F1 10 Tf
+50 790 Td
+/F1 10 Tf
+(Disclosing Party to the Receiving Party. All Confidential Information shall remain the) Tj
+0 -14 Td /F1 10 Tf
+(sole property of the Disclosing Party.) Tj
+0 -14 Td /F1 10 Tf
+(6.2. **No Warranty.** All Confidential Information is provided "AS IS." The Disclosing) Tj
+0 -14 Td /F1 10 Tf
+(Party makes no representations or warranties, express or implied, regarding the) Tj
+0 -14 Td /F1 10 Tf
+(accuracy, completeness, or performance of the Confidential Information.) Tj
+0 -14 Td /F1 10 Tf
+(ARTICLE 7: REMEDIES) Tj
+0 -14 Td /F1 10 Tf
+(7.1. The Receiving Party acknowledges that any breach of this Agreement would cause) Tj
+0 -14 Td /F1 10 Tf
+(irreparable harm to the Disclosing Party for which monetary damages would be an) Tj
+0 -14 Td /F1 10 Tf
+(inadequate remedy. Accordingly, the Receiving Party agrees that, in the event of any) Tj
+0 -14 Td /F1 10 Tf
+(actual or threatened breach, the Disclosing Party shall be entitled to seek injunctive) Tj
+0 -14 Td /F1 10 Tf
+(relief, specific performance, or other equitable remedies, in addition to any other) Tj
+0 -14 Td /F1 10 Tf
+(remedies available at law or in equity, without the necessity of posting a bond or other) Tj
+0 -14 Td /F1 10 Tf
+(security.) Tj
+0 -14 Td /F1 10 Tf
+(7.2. All remedies provided herein are cumulative and not exclusive of any other remedies) Tj
+0 -14 Td /F1 10 Tf
+(available at law or in equity.) Tj
+0 -14 Td /F1 10 Tf
+(ARTICLE 8: GOVERNING LAW) Tj
+0 -14 Td /F1 10 Tf
+(8.1. This Agreement shall be governed by and construed in accordance with the laws of) Tj
+0 -14 Td /F1 10 Tf
+(the State of [Insert State of Acme Corp.'s Incorporation], without regard to its) Tj
+0 -14 Td /F1 10 Tf
+(conflict of laws principles.) Tj
+0 -14 Td /F1 10 Tf
+(8.2. The Parties hereby irrevocably consent to the exclusive jurisdiction of the state) Tj
+0 -14 Td /F1 10 Tf
+(and federal courts located in [Insert County, State of Acme Corp.'s Incorporation] for) Tj
+0 -14 Td /F1 10 Tf
+(any action or proceeding arising out of or relating to this Agreement.) Tj
+0 -14 Td /F1 10 Tf
+(ARTICLE 9: MISCELLANEOUS PROVISIONS) Tj
+0 -14 Td /F1 10 Tf
+(9.1. **Entire Agreement.** This Agreement constitutes the entire understanding and) Tj
+0 -14 Td /F1 10 Tf
+(agreement between the Parties concerning the subject matter hereof and supersedes all) Tj
+0 -14 Td /F1 10 Tf
+(prior and contemporaneous agreements, understandings, negotiations, and discussions,) Tj
+0 -14 Td /F1 10 Tf
+(whether oral or written, between the Parties relating to the subject matter hereof.) Tj
+0 -14 Td /F1 10 Tf
+(9.2. **Amendments.** No amendment, modification, or waiver of any provision of this) Tj
+0 -14 Td /F1 10 Tf
+(Agreement shall be effective unless in writing and signed by duly authorized) Tj
+0 -14 Td /F1 10 Tf
+(representatives of both Parties.) Tj
+0 -14 Td /F1 10 Tf
+(9.3. **Severability.** If any provision of this Agreement is found by a court of) Tj
+0 -14 Td /F1 10 Tf
+(competent jurisdiction to be invalid, illegal, or unenforceable, such provision shall be) Tj
+0 -14 Td /F1 10 Tf
+(modified to the minimum extent necessary to make it valid, legal, and enforceable, and) Tj
+0 -14 Td /F1 10 Tf
+(the remainder of this Agreement shall remain in full force and effect.) Tj
+0 -14 Td /F1 10 Tf
+(9.4. **Waiver.** No failure or delay by either Party in exercising any right, power, or) Tj
+0 -14 Td /F1 10 Tf
+(privilege under this Agreement shall operate as a waiver thereof, nor shall any single) Tj
+0 -14 Td /F1 10 Tf
+(or partial exercise thereof preclude any other or further exercise thereof or the) Tj
+0 -14 Td /F1 10 Tf
+(exercise of any other right, power, or privilege.) Tj
+0 -14 Td /F1 10 Tf
+(9.5. **Assignment.** This Agreement and the rights and obligations hereunder may not be) Tj
+0 -14 Td /F1 10 Tf
+(assigned, delegated, or otherwise transferred by the Receiving Party without the prior) Tj
+0 -14 Td /F1 10 Tf
+(written consent of the Disclosing Party. Any attempted assignment, delegation, or) Tj
+0 -14 Td /F1 10 Tf
+(transfer in violation of this provision shall be null and void.) Tj
+0 -14 Td /F1 10 Tf
+(9.6. **Counterparts.** This Agreement may be executed in counterparts, each of which) Tj
+0 -14 Td /F1 10 Tf
+(shall be deemed an original, but all of which together shall constitute one and the same) Tj
+0 -14 Td /F1 10 Tf
+(instrument. Facsimile or electronic signatures shall be deemed original signatures for) Tj
+0 -14 Td /F1 10 Tf
+(all purposes.) Tj
+0 -14 Td /F1 10 Tf
+(IN WITNESS WHEREOF**, the Parties have executed this Non-Disclosure Agreement as of the) Tj
+0 -14 Td /F1 10 Tf
+(Effective Date first written above.) Tj
+0 -28 Td /F1 8 Tf
+(Multi-Agent Enterprise Contract Generator | Page 4 of 5) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 999 >>
+stream
+BT
+/F1 10 Tf
+50 790 Td
+/F1 10 Tf
+(ACME CORP.** \(Disclosing Party\)) Tj
+0 -14 Td /F1 10 Tf
+(By: _________________________) Tj
+0 -14 Td /F1 10 Tf
+(Name: [Insert Authorized Signatory Name]) Tj
+0 -14 Td /F1 10 Tf
+(Title: [Insert Title]) Tj
+0 -14 Td /F1 10 Tf
+(Date: _________________________) Tj
+0 -14 Td /F1 10 Tf
+(JOHN DOE** \(Receiving Party\)) Tj
+0 -14 Td /F1 10 Tf
+(Signature: _________________________) Tj
+0 -14 Td /F1 10 Tf
+(Printed Name: John Doe) Tj
+0 -14 Td /F1 10 Tf
+(Date: _________________________) Tj
+0 -8 Td /F1 10 Tf
+() Tj
+0 -18 Td /F1 14 Tf
+(Execution) Tj
+0 -14 Td /F1 10 Tf
+(Each party acknowledges that it has read, understood, and agreed to be bound by this) Tj
+0 -14 Td /F1 10 Tf
+(Agreement.) Tj
+0 -14 Td /F1 10 Tf
+(Disclosing Party Name: Title: Date:) Tj
+0 -14 Td /F1 10 Tf
+(Receiving Party Name: Title: Date:) Tj
+0 -14 Td /F1 10 Tf
+(Checked required sections, tone, and formatting consistency.) Tj
+0 -28 Td /F1 8 Tf
+(Multi-Agent Enterprise Contract Generator | Page 5 of 5) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000141 00000 n 
+0000000211 00000 n 
+0000004551 00000 n 
+0000004677 00000 n 
+0000009380 00000 n 
+0000009506 00000 n 
+0000014194 00000 n 
+0000014320 00000 n 
+0000019033 00000 n 
+0000019161 00000 n 
+0000020212 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+20340
+%%EOF

@@ -1,0 +1,9 @@
+streamlit>=1.36.0
+langchain>=0.2.11
+langchain-core>=0.2.23
+langchain-google-genai>=1.0.8
+langgraph>=0.2.0
+python-dotenv>=1.0.1
+weasyprint>=62.3
+pydantic>=2.7.0
+
